@@ -6,7 +6,7 @@ This project handled by It department.There are 45 memebers contributing in this
 
 Selenium is an umbrella project encapsulating a variety of tools and
 libraries enabling web browser automation. Selenium specifically
-provides an infrastructure for the [W3C WebDriver specification](https://w3c.github.io/webdriver/)
+provides an infrastructure 
 — a platform and language-neutral coding interface compatible with all
 major web browsers.
 
