@@ -10,21 +10,11 @@ provides an infrastructure for the [W3C WebDriver specification](https://w3c.git
 — a platform and language-neutral coding interface compatible with all
 major web browsers.
 
-The project is made possible by volunteer contributors who've
-generously donated thousands of hours in code development and upkeep.
+## Contributer
 
-Selenium's source code is made available under the [Apache 2.0 license](https://github.com/SeleniumHQ/selenium/blob/trunk/LICENSE).
-
-This README is for developers interested in contributing to the project.
-For people looking to get started using Selenium, please check out
-our [User Manual](https://selenium.dev/documentation/) for detailed examples and descriptions, and if you
-get stuck, there are several ways to [Get Help](https://www.selenium.dev/support/).
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://github.com/SeleniumHQ/selenium/blob/trunk/CONTRIBUTING.md)
-before submitting your pull requests.
-
+5 main Contributer for this project are:
+*Ravi
+*Kavi
 
 ## Installing
 
