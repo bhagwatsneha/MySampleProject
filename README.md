@@ -1,6 +1,5 @@
 # Automation using Selenium
 
-(https://github.com/SeleniumHQ/selenium/actions/workflows/ci.yml)
 
 <a href="https://selenium.dev"><img src="common/images/selenium_logo_mark_green.svg" width="180" alt="Selenium Logo"/></a>
 
