@@ -1,12 +1,8 @@
 # Automation using Selenium
 
 This project is developed by [Lavatech Technology](https://lavatechtecnology.com)
-This project handled by It department.There re 5 memebers contributing in this project.
--Ravi
--Raman
-*Kia
-*Siya
-*Radha
+This project handled by It department.There are 45 memebers contributing in this project.
+
 
 Selenium is an umbrella project encapsulating a variety of tools and
 libraries enabling web browser automation. Selenium specifically
