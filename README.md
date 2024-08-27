@@ -1,7 +1,6 @@
 # Automation using Selenium
 
-
-<a href="https://selenium.dev"><img src="common/images/selenium_logo_mark_green.svg" width="180" alt="Selenium Logo"/></a>
+This project is developed by [Lavatech Technology](https://lavatechtecnology.com)
 
 Selenium is an umbrella project encapsulating a variety of tools and
 libraries enabling web browser automation. Selenium specifically
