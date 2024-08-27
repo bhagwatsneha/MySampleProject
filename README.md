@@ -24,10 +24,10 @@ major web browsers.
 These are the requirements to create your own local dev environment to contribute to Selenium.
 
 ### All Platforms
-* [Bazelisk](https://github.com/bazelbuild/bazelisk), a Bazel wrapper that automatically downloads
+* Bazel wrapper that automatically downloads
   the version of Bazel specified in `.bazelversion` file and transparently passes through all
   command-line arguments to the real Bazel binary.
-* Java JDK version 17 or greater (e.g., [Java 17 Temurin](https://adoptium.net/temurin/releases/?version=17))
+* Java JDK version 17 or greater 
   * Set `JAVA_HOME` environment variable to location of Java executable (the JDK not the JRE)
   * To test this, try running the command `javac`. This command won't exist if you only have the JRE
   installed. If you're met with a list of command-line options, you're referencing the JDK properly.
