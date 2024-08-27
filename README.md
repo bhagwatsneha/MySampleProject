@@ -15,9 +15,9 @@ major web browsers.
 5 main Contributer for this project are:
 * Swara
 * Harshavi
-* Radha
-* Kia
 * Paju
+* Kia
+* Radha
 
 ## Installing
 
