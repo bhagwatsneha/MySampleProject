@@ -17,7 +17,7 @@ major web browsers.
 * Harshavi
 * Radha
 * Kia
-* Harshavi
+* Paju
 
 ## Installing
 
