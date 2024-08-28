@@ -1,6 +1,6 @@
 # Automation using Selenium
 
-This project is developed by [Lavatech Technology](https://lavatechtecnology.com)
+This project is developed by [Lavatech Technology](https://lavatechtechnology.com)
 This project handled by It department.There are 45 memebers contributing in this project.
 
 
